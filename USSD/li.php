@@ -15,7 +15,7 @@ class mySampleMenu extends DynamicMenuController {
         
     }
     function startPage (){
-            
+        $this->displaytext="My USSD menu ";
     
 }
 }
